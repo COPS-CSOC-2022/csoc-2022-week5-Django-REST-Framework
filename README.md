@@ -1,5 +1,5 @@
 
-# Todo App API - CSoC Dev Task 5
+# Todo App API - CSoC Dev Task 5 (Django)
 
 ## Introduction
 
